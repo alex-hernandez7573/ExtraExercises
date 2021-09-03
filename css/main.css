@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: white;
+
+}
+.card {
+         background-color: navy;
+         color: white;
+     }
+@media screen and (prefers-color-scheme: light) {
+    body {
+        background-color: white;
+        color: black;
+    }
+
+    .card {
+        background-color: white;
+        color: black;
+    }
+
+}
+
+
+
+/*putting a darkmode, for readability.*/

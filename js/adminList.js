@@ -17,6 +17,6 @@ let userList = [
 
 userList.forEach(function (user){
     if (user.isAdmin == true) {
-        console.log( user.email);
+        document.writeln( user.email);
     }
-})
+});
