@@ -22,8 +22,8 @@ let persons = [
 persons.forEach( function (name){
     let addOne = name.age+1;
     document.writeln( "<p> name: "+ name.name  +" age: "+ addOne +"</p>");
-})
+});
 
 persons.forEach( function (name){
     document.writeln( "<p> *Orignal* name: "+ name.name  +" age: "+ name.age +"</p>");
-})
+});
