@@ -2,7 +2,14 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class groceryListMaker {
+
+
+
+
     public static void main(String[] args) {
+
+
+
 
         String greeting = "How many items do you need from the grocery store?";
         System.out.println(greeting);
