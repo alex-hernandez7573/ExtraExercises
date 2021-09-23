@@ -26,12 +26,5 @@ public class scr5 {
             System.out.printf("%d x %d = %d%n", N, i, N*i);
         }
 
-
-
-
-
-
-
-
     }
 }
