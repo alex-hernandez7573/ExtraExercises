@@ -1,0 +1,41 @@
+What are the amin featueres of Java?
+-Java is an OOP language
+-Its sort of simple
+-Distributed
+-Java Supports multithreading
+-Java is a platform independent programming language
+-Java is more secured than other languages
+-Portable
+-Robust
+
+What is an Array?
+-The Collection of similar data types known as Array.
+
+Is it possible to declare an array without an array size?
+-it is not possible to declare an array without an array size. If you try to do so then you  will get a compile error.
+
+What do you understand by the term OOP?
+-The OOP or Object-Oriented Programming language is a language that uses objects in programming.
+
+What are the basic principles of oop?
+-Abstraction
+-Polymorphism
+-Encapsulation
+-Inheritance
+
+What is abstraction in Java?
+Abstraction means hiding the detailed information from the user. Abstraction can be achieved by interfaces and abstract
+ classes.
+
+ What do you mean by inheritance in Java?
+ Inheritance is the main feature of Java. Inheritance means java class or interface can  inherit the properties and
+ behavior from another class or interface. Inheritance can be gained by implementing interfaces or extending
+ classes.
+
+ What is Polymorphism in Java?
+ Many-Forms; of a method or constructor or operator.
+ Polymorphism means many forms of  same method or constructor or operators.
+
+
+
+
