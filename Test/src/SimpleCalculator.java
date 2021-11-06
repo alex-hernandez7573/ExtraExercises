@@ -22,6 +22,7 @@ public class SimpleCalculator {
             subtractTwoNums(userNumA ,userNumB );
             dividingTwoNums(userNumA ,userNumB );
 
+            break;
 
         }
 
