@@ -1,6 +1,6 @@
 public class FizzBuzzPractice {
     public static void main(String[] args) {
-        // her we set an n to equal 100
+
         int n = 100;
 
         // create a simple for loop
