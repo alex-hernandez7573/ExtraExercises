@@ -22,6 +22,26 @@ public class GameOfWarCardGame {
     }
 
 
+public class Deck {
+        private Card [] deck;
+        private int cardsUsed;
+
+        public Deck () {
+
+        }
+
+        public Deck (boolean includedJokers) {
+            if (includedJokers)
+                deck = newCard [54];
+            else
+                deck = newCard [52];
+            int cardCount = 52;
+        }
+
+}
+
+
+
 
 
 }
