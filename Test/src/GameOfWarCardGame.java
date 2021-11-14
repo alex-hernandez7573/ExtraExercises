@@ -14,31 +14,31 @@ public class GameOfWarCardGame {
     // player2 wins
     // player2 adds won cards used card deck
 
-
-
-
-    public static void main(String[] args) {
-        System.out.println("Lets play a game");
-    }
-
-
-public class Deck {
-        private Card [] deck;
-        private int cardsUsed;
-
-        public Deck () {
-
-        }
-
-        public Deck (boolean includedJokers) {
-            if (includedJokers)
-                deck = newCard [54];
-            else
-                deck = newCard [52];
-            int cardCount = 52;
-        }
-
-}
+//
+//
+//
+//    public static void main(String[] args) {
+//        System.out.println("Lets play a game");
+//    }
+//
+//
+//public class Deck {
+//        private Card [] deck;
+//        private int cardsUsed;
+//
+//        public Deck () {
+//
+//        }
+//
+//        public Deck (boolean includedJokers) {
+//            if (includedJokers)
+//                deck = newCard [54];
+//            else
+//                deck = newCard [52];
+//            int cardCount = 52;
+//        }
+//
+//}
 
 
 
