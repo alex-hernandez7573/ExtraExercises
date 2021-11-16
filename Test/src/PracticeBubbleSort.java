@@ -1,4 +1,4 @@
-public class Practice {
+public class PracticeBubbleSort {
 
     // looking up sort algorithms
         // bubble sort
@@ -26,7 +26,7 @@ public class Practice {
     }
 
     public static void main(String[] args) {
-        Practice BSDemo = new Practice  ();
+        PracticeBubbleSort BSDemo = new PracticeBubbleSort();
         int arr[] = {12, 32 , 48, 20, 14, 67};
         BSDemo.bubbleSort(arr);
         System.out.println("this would be the sorted array ");
