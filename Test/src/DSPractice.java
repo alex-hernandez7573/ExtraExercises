@@ -24,7 +24,7 @@ public class DSPractice {
         System.out.println(FavoriteMovies.size()); // method to grab size
         System.out.println(FavoriteMovies.isEmpty()); // boolean check if empty
         System.out.println(FavoriteMovies.keySet()); // grabs the keys & prints them
-        System.out.println(FavoriteMovies.entrySet()); // grabs each entry by set pairs in this instance
+        System.out.println(FavoriteMovies.entrySet()); // grabs each entry by set pairs in this instanceva
         FavoriteMovies.clear();
         System.out.println(FavoriteMovies); // method to clear the HashMap
 
